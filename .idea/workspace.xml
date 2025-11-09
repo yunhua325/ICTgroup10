@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/qianchen_exp 2.4/exp2.4_illustrate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ICTgroup10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ICTgroup10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/calcInfo.bat" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/calcInfo.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/calcInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/calcInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/input/text-en.7z" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/input/text-en.7z" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/input/text-en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/input/text-en.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/output/calcInfo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/output/calcInfo.csv" afterDir="false" />
-    </list>
+    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +32,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\钱晨\Desktop\ICTgroup10\qianchen_exp_3" />
+      <recent name="C:\Users\钱晨\Desktop\ICTgroup10\qianchen_exp_3.1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="byteSource" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICTgroup10" />
