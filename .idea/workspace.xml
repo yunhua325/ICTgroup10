@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="" />
+    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/byteChannel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/byteSource.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/calcBSCInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/BSC.p=0.2.DMS.p0=0.7.len=1MB.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/BSC.p=0.2.DMS.p0=0.9.len=1MB.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/BSC.p=0.5.DMS.p0=0.7.len=1MB.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/DMS.p0=0.7.len=1MB.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/DMS.p0=0.9.len=1MB.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/unit-test/results.expect.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/实验3.1分工.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-2712416a7896d8bb2ccce30d8087e9b18967c943/说明.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/experiment.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/info_all_zeros.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/info_all_zeros.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/info_uniform.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/info_uniform.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p0.0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p0.0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p0.2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p0.2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p1.0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/noise_p1.0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/result.expect.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/result/info_all_zeros_noise_p0.0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/result/info_all_zeros_noise_p1.0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/unit-test/result/info_uniform_noise_p0.2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICTgroup10-main/实验3.1分工.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
