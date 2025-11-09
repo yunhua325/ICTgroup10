@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/qianchen_exp 2.4/exp2.4_illustrate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ICTgroup10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ICTgroup10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/calcInfo.bat" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/calcInfo.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/calcInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/calcInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/input/text-en.7z" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/input/text-en.7z" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/input/text-en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/input/text-en.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钱晨_caculate_info/output/calcInfo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/qianchen_exp_2.1/output/calcInfo.csv" afterDir="false" />
-    </list>
+    <list default="true" id="dbc22983-bc10-44c4-8ab0-eb0903c29ac6" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,19 +21,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.byteSource.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;qianchen__INFO__course&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.byteSource.executor": "Run",
+    "Python.calcBSCInfo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\钱晨\Desktop\ICTgroup10\qianchen_exp_3" />
+      <recent name="C:\Users\钱晨\Desktop\ICTgroup10\qianchen_exp_3.1" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="byteSource" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calcBSCInfo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ICTgroup10" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhongyinzhen" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qianchen_exp_3_1/zzy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhongyinzhen/byteSource.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qianchen_exp_3_1/zzy/calcBSCInfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,11 +62,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.byteSource" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
