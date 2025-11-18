@@ -26,7 +26,7 @@ import io   # 导入输入输出模块，用于字节流操作
 
 # Non-standard library
 import numpy as np  # 导入NumPy库，用于数值计算和数组操作
-from dahuffman_no_EOF import HuffmanCodec  # 导入自定义的Huffman编码器
+from dahuffman_no_EOF import HuffmanCodec  # 导入自定义的Huffman编码器（老师已给dahuffman_no_EOF模块）
 
 # 作者信息
 __author__ = "Guo, Jiangling"
