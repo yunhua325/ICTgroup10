@@ -1,4 +1,0 @@
-Input(X),Output(Y),H(X),H(Y),H(XY),H(X|Y),H(Y|X),I(X;Y),P
-unit-test/info_all_zeros.bin,unit-test/result/info_all_zeros_noise_p0.0.bin,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-unit-test/info_all_zeros.bin,unit-test/result/info_all_zeros_noise_p1.0.bin,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-unit-test/info_uniform.bin,unit-test/result/info_uniform_noise_p0.2.bin,0.89267,0.89484,0.99475,0.09991,0.10208,0.79276,0.2
