@@ -53,17 +53,31 @@ def calculate_bit_errors(bytes1: bytes, bytes2: bytes) -> Tuple[int, int]:
 def write_result_to_csv(input1: str, input2: str, error_rate: float, result_path: str) -> None:
     """
     将计算结果写入CSV文件，格式："INPUT1","INPUT2","error_rate"
+    支持追加模式，如果文件存在则追加新行，否则创建新文件并写入表头。
     :param input1: 第一个输入文件路径
     :param input2: 第二个输入文件路径
     :param error_rate: 计算得到的误码率（保留6位小数）
     :param result_path: 结果CSV文件路径
     """
     try:
+        import os
+        
+        # 检查文件是否存在，决定是否写入表头
+        file_exists = os.path.exists(result_path)
+        
         # 使用csv模块确保格式规范（处理路径中的逗号、引号等特殊字符）
-        with open(result_path, 'w', newline='', encoding='utf-8') as f:
+        with open(result_path, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f, quoting=csv.QUOTE_ALL)  # 自动给字段加双引号
+            
+            # 如果文件不存在，先写入表头
+            if not file_exists:
+                writer.writerow(['INPUT1', 'INPUT2', 'error_rate'])
+            
+            # 写入数据行
             writer.writerow([input1, input2, round(error_rate, 6)])
-        print(f"成功：结果已保存到 '{result_path}'")
+        
+        action = "保存到" if file_exists else "创建并写入"
+        print(f"成功：结果已{action} '{result_path}'")
     except PermissionError:
         print(f"错误：没有写入文件 '{result_path}' 的权限。")
         sys.exit(1)
