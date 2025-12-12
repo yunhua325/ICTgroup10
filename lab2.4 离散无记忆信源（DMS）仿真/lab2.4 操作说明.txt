@@ -1,0 +1,42 @@
+# 实验2.4 256元DMS仿真程序操作说明
+
+## 一、程序功能
+根据输入的概率分布文件，生成指定长度的离散无记忆信源消息序列，并保存为二进制文件。
+
+## 二、运行环境
+- Python 3.x
+- 依赖库：numpy
+
+## 三、运行参数
+- 输入概率分布文件（CSV格式，每行：符号,概率，共256行）
+- 输出消息文件路径（建议以.bin/.dat 结尾）
+- 消息长度（正整数，生成符号数量）
+
+## 四、运行命令
+在命令行窗口进入程序目录，执行：
+```bash
+python byteSource.py 输入文件路径 输出文件路径 消息长度
+如python byteSource.py input/PDF.byte.uniform.csv output/text-en.dat 1024000
+```
+
+## 五、文件目录结构
+- 根目录
+  - input/：输入文件目录
+    - PDF.byte.uniform.csv：均匀分布概率文件
+    - test_nonuniform.csv：非均匀分布概率测试文件
+    - test_single.csv：单符号概率测试文件
+  - output/：输出文件目录
+    - calcInfo.csv：验证信息量、字节数文件
+    - PDF.byte.uniform.bin：均匀分布生成的二进制消息文件
+    - test_nonuniform.bin：非均匀分布生成的二进制消息文件
+    - test_single.bin：单符号生成的二进制消息文件
+    - text-en.dat：老师给的示例输出文件
+  - byteSource.py：实验2.4的主程序文件，用于进行离散无记忆信源仿真，生成自定义长度的消息序列
+  - calcInfo.py：辅助程序文件，用于验证输出文件是否符合预期
+  - lab2.4 操作说明.txt：本操作说明文件
+  - lab2.4 离散无记忆信源（DMS）仿真_实验报告_group10.docx：本次实验报告文档
+  - run-exp.cmd：批处理脚本，用于批量运行实验
+
+## 六、注意事项
+- 输入概率分布文件必须包含256行，每行格式为"符号,概率"，概率总和应为1
+- 输出文件路径需确保有写入权限
